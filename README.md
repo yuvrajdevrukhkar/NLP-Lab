@@ -1,2 +1,2 @@
 # NLP-Lab
-What!!Kuch nhi hai idhr jao jake practical perform kro!
+Lab Codes and pdf
